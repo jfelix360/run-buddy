@@ -566,3 +566,9 @@ section {
 .radio-wrapper input:checked + label::after {
     content: "";
 }
+
+:root {
+    --primary-color: #fce138;
+    --secondary-color: #024e76;
+    --tertiary-color: #39a6b2;
+}
